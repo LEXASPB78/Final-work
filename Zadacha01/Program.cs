@@ -33,3 +33,5 @@ void PrintArray(string[] array)
     }
 }
 
+FillArray(arrayOne, arrayTwo);
+PrintArray(arrayTwo);
