@@ -9,7 +9,7 @@
 ["Russia", "Denmark", "Kazan"] -> []
 */
 
-string[] arrayOne = new string[] {"Russia", "Denmark", "Kazan"};
+string[] arrayOne = new string[] {"Rus", "De", "Kazan"};
 string[] arrayTwo = new string[arrayOne.Length];
 
 void FillArray(string[] array1, string[] array2)
